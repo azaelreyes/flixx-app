@@ -218,6 +218,7 @@ section h2 {
 /* Movie Details */
 .details-top {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
   margin: 50px 0 30px;
